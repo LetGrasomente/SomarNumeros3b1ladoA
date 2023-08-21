@@ -2,9 +2,9 @@
 
 #Altere as variáveis abaixo de acordo com a sua necessidade
 #na variável repositório, prefira a url do repositório baseada em https para nao termos que configurar SSH
-export name='DaniloVir'
-export email="danilo.vieira7@fatec.sp.gov.br"
-export repositorio="";
+export name='LetGrasomente'
+export email="graziela.silva99@etec.sp.gov.br"
+export repositorio="https://github.com/LetGrasomente/SomarNumeros3b1ladoA.git";
 
 #Daqui pra baixo mexa somente se for realmente necessário ou se souber o que está fazendo :P
 
